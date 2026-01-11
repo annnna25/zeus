@@ -1,4 +1,4 @@
-name: abwaerme
+name: zeus
 channels:
   - conda-forge
 dependencies:
